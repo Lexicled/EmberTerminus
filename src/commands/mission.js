@@ -40,7 +40,7 @@ module.exports = {
     const id = '1198239622380134432';
 
     await thread.send({
-      content: 'Mission: Fully discover and name the following star system: ' + coords + '. Upload a screenshot and mention an admin to complete the mission. XP Reward: 100.',
+      content: 'Mission: Fully discover and name the following star system: ' + coords + '. Upload a screenshot and mention an admin to complete the mission. EC Reward: 50, XP Reward: 100',
     });
   },
 };

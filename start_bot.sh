@@ -1,0 +1,2 @@
+./pocketbase serve &
+npm start &
